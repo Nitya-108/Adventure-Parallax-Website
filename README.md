@@ -1,2 +1,2 @@
-# Adevnture Parallax Website
+# Adventure Parallax Website
  Parallax Website
